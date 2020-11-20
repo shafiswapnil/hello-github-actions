@@ -7,4 +7,4 @@ This course will walk you through writing your first action and using it with a 
 *For myself:*
 - Check Issues tab
 - Check Pull Requests tab
-- Check Action tab
+- Check Actions tab
